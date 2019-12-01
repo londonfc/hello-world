@@ -8,3 +8,5 @@ git add . (add all)
 git status
 
 git commit
+
+git brach mybrach //to not affect the master brach
