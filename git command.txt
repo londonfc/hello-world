@@ -1,0 +1,8 @@
+git init
+git global user.name 'Rui'
+git global user.email 'tottham@163.com'
+
+
+git add index.html
+git add . (add all)
+git status
