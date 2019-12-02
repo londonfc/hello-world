@@ -10,3 +10,5 @@ git status
 git commit
 
 git brach mybrach //to not affect the master brach
+
+git ls-files
